@@ -1,12 +1,7 @@
-# JS Game of Life
+# Perlin noise flowfield with particles
 
-Conway's game of life
-
-https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-
-# Features :
-
--Draw the starting cells
+Canvas project using the p5 library.  
+First a flowfield is created using 2D Perlin noise, then particles are dropped on the flowfield.
 
 # Ressources :
 
