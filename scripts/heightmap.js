@@ -1,3 +1,6 @@
+// Project inspired by the coding train on youtube
+// Check out his series of videos on perlin noise
+
 const getGrid = (width, height, elementToFillWith = 0) => {
   let grid = []
   for (let i = 0; i < height; i++) {
